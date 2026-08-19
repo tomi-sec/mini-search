@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+data/crawl.db
+data/index.pkl
+data/documents.pkl
+
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
